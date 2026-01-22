@@ -8,6 +8,7 @@ Welcome to our project repository!
 - Member 2
 - Member 3
 - Member 4
-- Member 5
+- Jack Roundy
+	"Hello, I'm Jack. I enjoy gaming and reading."
 - Member 6
 - Robert Kumar
