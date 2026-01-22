@@ -3,8 +3,8 @@
 Welcome to our project repository!
 
 ## Team Members
-
-- Member 1
+- Aidan Olson
+  Hello, I'm Aidan and I'm part of this team. My favorite hobbys are hiking and backpacking.
 - Ari Taylor
   I love stories, whether it's writing, reading, reading, 
   watching, or playing through them. I enjoy computer science and 
