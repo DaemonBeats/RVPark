@@ -6,7 +6,7 @@ Welcome to our project repository!
 
 - Member 1
 - Member 2
-- Dallen Sandstrom
+- Member 3
 - Member 4
 - Member 5
 - Member 6
