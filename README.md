@@ -4,10 +4,10 @@ Welcome to our project repository!
 
 ## Team Members
 
-- Jack Roundy
-- Ari Taylor
-- Dallen Sandstrom
-- Dylan Stout
-- Aiden Olson
-- Julie Nguyen
+- Member 1
+- Member 2
+- Member 3
+- Member 4
+- Member 5
+- Member 6
 - Robert Kumar
